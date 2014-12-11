@@ -1,6 +1,6 @@
 Egyptian Fraction Generator
 ===========================
-A small script used to generate Egyptian fraction solutions for the [Erdős–Straus conjecture](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Straus_conjecture).
+A small script that generates Egyptian fraction solutions for the [Erdős–Straus conjecture](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Straus_conjecture) using Dr. Ian Stewart's [Short Sequence method](https://www.ics.uci.edu/~eppstein/numth/egypt/force.html#short) of brute-forcing to find solutions.
 
 Usage
 -----
